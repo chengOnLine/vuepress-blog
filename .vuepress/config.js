@@ -73,7 +73,7 @@ module.exports = {
         
               // all other options of Vssue are allowed
               owner: 'chengOnLine',
-              repo: 'blog',
+              repo: 'vuepress-blog',
               clientId: '3d43232f1dccf56e99d9',
               clientSecret: 'e7e6c0dcbba613d8ee04917394e4f5486c729a2f',
             },

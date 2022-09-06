@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "@vuepress/plugin-register-components": "^1.9.7",
     "@vuepress/theme-blog": "^2.3.3",
     "vuepress": "^1.9.7"
   },
@@ -9,6 +10,9 @@
   },
   "dependencies": {
     "@vssue/api-github-v3": "^1.4.7",
-    "@vssue/vuepress-plugin-vssue": "^1.4.8"
+    "@vssue/vuepress-plugin-vssue": "^1.4.8",
+    "leancloud-storage": "^4.13.2",
+    "valine": "^1.5.1",
+    "vuepress-plugin-comment": "^0.7.3"
   }
 }

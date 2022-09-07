@@ -1,5 +1,5 @@
 module.exports = {
-    title: '适合一个人躲藏的角落', // Title for the site. This will be displayed in the navbar.
+    title: 'ぃ独守つ空城へ', // Title for the site. This will be displayed in the navbar.
     theme: '@vuepress/theme-blog',
     themeConfig: {
       repo: 'chengOnLine/vuepress-blog',

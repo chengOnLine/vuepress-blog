@@ -5,3 +5,7 @@ date: 2022-9-8
 author: cheng
 ---
 
+git add
+git commit
+git status
+git diff

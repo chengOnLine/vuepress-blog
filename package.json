@@ -6,7 +6,8 @@
   },
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build"
+    "build": "vuepress build",
+    "deploy": "bash deploy.sh"
   },
   "dependencies": {
     "@vssue/api-github-v3": "^1.4.7",
